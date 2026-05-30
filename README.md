@@ -34,9 +34,9 @@ Building expertise in Data Analytics and Business Intelligence while preparing f
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioTorres0&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTorres0&layout=compact&theme=tokyonight)
 
 --- 
 
@@ -54,7 +54,9 @@ Building expertise in Data Analytics and Business Intelligence while preparing f
 ## 📫 Contact
 
 LinkedIn:
-https://www.linkedin.com/in/caio-teixeira-torres-585539270/
+<a href="https://www.linkedin.com/in/caio-teixeira-torres-585539270/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 Email:
 caiottorres@hotmail.com
