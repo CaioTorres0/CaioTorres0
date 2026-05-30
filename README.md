@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm Caio Torres
 
-<!--
-**CaioTorres0/CaioTorres0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Mackenzie
 
-Here are some ideas to get you started:
+💼 Business Analyst Jr at Bradesco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Passionate about Data Analytics, SQL, Python and Power BI
+
+🇨🇦 Working toward my goal of building an international career in Canada
+
+---
+
+## 🚀 Technologies
+
+- SQL
+- Python
+- Power BI
+- Excel
+- Pandas
+- Git
+- Data Visualization
+
+---
+
+## 📈 Current Focus
+
+- Data Analytics
+- Dashboard Development
+- Automation with Python
+- Business Intelligence
+- English Improvement
+
+---
+
+## 📫 Contact
+
+LinkedIn:
+[Seu LinkedIn]
+
+Email:
+[Seu Email]
