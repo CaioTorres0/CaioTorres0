@@ -62,3 +62,9 @@ Building expertise in Data Analytics and Business Intelligence while preparing f
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 👋 Thanks for visiting my profile! 😉
+
+Feel free to explore my projects and connect with me.
