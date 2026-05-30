@@ -12,13 +12,9 @@
 
 ## 🚀 Technologies
 
-- SQL
-- Python
-- Power BI
-- Excel
-- Pandas
-- Git
-- Data Visualization
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
+</p>
 
 ---
 
@@ -29,13 +25,14 @@
 - Automation with Python
 - Business Intelligence
 - English Improvement
+- Pandas and Numpy improvement
 
 ---
 
 ## 📫 Contact
 
 LinkedIn:
-[Seu LinkedIn]
+https://www.linkedin.com/in/caio-teixeira-torres-585539270/
 
 Email:
-[Seu Email]
+caiottorres@hotmail.com
