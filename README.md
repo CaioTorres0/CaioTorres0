@@ -34,8 +34,9 @@ Building expertise in Data Analytics and Business Intelligence while preparing f
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CaioTorres0&theme=github-dark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioTorres0&theme=github-dark)
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=CaioTorres0&theme=github-dark" />
+</p>
 --- 
 
 ## 📈 Current Focus
