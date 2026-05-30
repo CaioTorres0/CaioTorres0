@@ -50,6 +50,12 @@ Building expertise in Data Analytics and Business Intelligence while preparing f
 </p>
 --- 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CaioTorres0/CaioTorres0/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## 📫 Contact
 
