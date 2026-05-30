@@ -13,6 +13,12 @@ I'm a Business Analyst at Bradesco and a Computer Science student at Mackenzie U
 
 ---
 
+## 🎯 Career Goal
+
+Building expertise in Data Analytics and Business Intelligence while preparing for international opportunities in Data and Technology.
+
+---
+
 ## 🚀 Technologies
 
 <p align="center">
@@ -25,6 +31,14 @@ I'm a Business Analyst at Bradesco and a Computer Science student at Mackenzie U
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+--- 
 
 ## 📈 Current Focus
 
