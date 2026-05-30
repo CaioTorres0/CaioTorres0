@@ -6,8 +6,6 @@
 
 📊 Passionate about Data Analytics, SQL, Python and Power BI
 
-🇨🇦 Working toward my goal of building an international career in Canada
-
 ---
 
 ## 🚀 Technologies
@@ -20,6 +18,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
+
 ---
 
 ## 📈 Current Focus
