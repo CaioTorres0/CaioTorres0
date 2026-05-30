@@ -35,6 +35,7 @@ Building expertise in Data Analytics and Business Intelligence while preparing f
 ## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CaioTorres0&theme=github-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioTorres0&show_icons=true&theme=github_dark)
 
 --- 
 
@@ -65,6 +66,10 @@ Building expertise in Data Analytics and Business Intelligence while preparing f
 
 ---
 
-## 👋 Thanks for visiting my profile! 😉
+<h3 align="center">
+  Thanks for visiting my profile! 😉
+</h3>
 
-Feel free to explore my projects and connect with me.
+<p align="center">
+  Feel free to explore my projects and connect with me.
+</p>
