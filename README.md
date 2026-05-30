@@ -52,13 +52,15 @@ Building expertise in Data Analytics and Business Intelligence while preparing f
 ---
 
 ## 📫 Contact
-<a href="https://www.linkedin.com/in/caio-teixeira-torres-585539270/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
+<p>
+  <a href="https://www.linkedin.com/in/caio-teixeira-torres-585539270/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-
-<a href="mailto:caiottorres@hotmail.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-
+<p>
+  <a href="mailto:caiottorres@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</p>
