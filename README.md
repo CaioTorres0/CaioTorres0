@@ -32,11 +32,9 @@ Building expertise in Data Analytics and Business Intelligence while preparing f
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioTorres0&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTorres0&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=CaioTorres0&theme=github-dark)
 
 --- 
 
