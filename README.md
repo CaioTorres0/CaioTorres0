@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Caio Torres</h1>
 
-### Business Analyst Jr @ Bradesco | Computer Science Student @ Mackenzie
+### Business Analyst @ Bradesco | Computer Science Student @ Mackenzie
 
 I'm a Business Analyst at Bradesco and a Computer Science student at Mackenzie University. Passionate about Data Analytics, Business Intelligence, and Automation, I enjoy transforming data into meaningful insights and business solutions.
 ---
