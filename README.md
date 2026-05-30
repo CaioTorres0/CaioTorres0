@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Caio Torres
+
 I'm a Business Analyst at Bradesco with a strong interest in Data Analytics, Business Intelligence, and Automation. Currently pursuing a degree in Computer Science while building technical and analytical skills through real-world projects and continuous learning.
 ---
 
